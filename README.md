@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**OwlDarlyn/OwlDarlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Daryna
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning mobile development, focused on iOS
+- 📱 My main frameworks are SwiftUI, UIKit on iOS and flutter for cross-platform
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daryna-parena-417ab31b4/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owldarlyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owldarlyn)](https://github.com/anuraghazra/github-readme-stats)
