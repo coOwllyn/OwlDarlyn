@@ -3,7 +3,7 @@
 ### My name is Daryna
 
 - 🌱 I’m currently learning mobile development, focused on iOS
-- 📱 My main frameworks are SwiftUI, UIKit on iOS and flutter for cross-platform
+- 📱 My main frameworks are SwiftUI, UIKit on iOS and Flutter for cross-platform
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daryna-parena-417ab31b4/)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
