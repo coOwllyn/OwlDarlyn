@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Daryna
+### My name is Darryana
 
 - 🌱 I’m currently learning mobile development, focused on iOS
 - 📱 My main frameworks are SwiftUI, UIKit on iOS and Flutter for cross-platform
